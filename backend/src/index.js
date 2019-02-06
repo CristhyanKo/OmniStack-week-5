@@ -16,7 +16,7 @@ app.use((req, res, next) => {
     req.io = io
     return next()
 })
-app.use(cors)
+app.use(cors())
 app.use(express.json())
 app.use(require('./routes'))
 
