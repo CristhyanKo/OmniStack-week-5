@@ -20,13 +20,16 @@ Acesse a pasta backend
 npm install
 ```
 
-```npm start
+```bash
+npm start
 ```
 
 Acesse a pasta frontend
 
-```npm install
+```bash
+npm install
 ```
 
-```npm start
+```bash
+npm start
 ```
