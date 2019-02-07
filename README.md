@@ -1,25 +1,31 @@
-# OmniStack-week-5
+# GoTwitter - OmniStack-week-5
 Semana OmniStack - React &amp; React Native (https://rocketseat.com.br/week-5/)
 
 
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Instalação
+Clone este repositório
+```git
+git clone https://github.com/CristhyanKo/OmniStack-week-5
+```
+Acesse a pasta de onde foi clonado o seu projeto
 
 ```bash
-pip install foobar
+cd OmniStack-week-5
 ```
 
-## Usage
+## Como usar
+Acesse a pasta backend
 
-```python
-import foobar
+```npm install
+```
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```npm start
+```
+
+Acesse a pasta frontend
+
+```npm install
+```
+
+```npm start
 ```
