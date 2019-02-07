@@ -7,7 +7,7 @@ Semana OmniStack - React &amp; React Native (https://rocketseat.com.br/week-5/)
 Pré requisitos
 * [MongoDb](https://www.mongodb.com/)
 
-Clone este repositório
+Clone o repositório
 ```git
 git clone https://github.com/CristhyanKo/OmniStack-week-5
 ```
