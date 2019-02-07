@@ -5,7 +5,7 @@ Semana OmniStack - React &amp; React Native (https://rocketseat.com.br/week-5/)
 ## Instalação
 
 Pré requisitos
-* [MongoDb](https://www.mongodb.com/) - MongoDb
+* [MongoDb](https://www.mongodb.com/)
 
 Clone este repositório
 ```git
