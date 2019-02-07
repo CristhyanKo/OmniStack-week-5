@@ -16,7 +16,8 @@ cd OmniStack-week-5
 ## Como usar
 Acesse a pasta backend
 
-```npm install
+```npm
+npm install
 ```
 
 ```npm start
