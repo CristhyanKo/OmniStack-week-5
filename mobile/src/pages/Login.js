@@ -13,13 +13,13 @@ export default class Login extends Component {
         if (!username.length) return
         await AsyncStorage.setItem('@GoTwitter:username', username)
 
-        this.props.navigation.navigate('Timeline')
+        this.props.navigation.navigate('App')
     }
 
     async componentDidMount() {
         const username = await AsyncStorage.getItem('@GoTwitter:username')
         if (username.length) {
-            this.props.navigation.navigate('Timeline')
+            this.props.navigation.navigate('App')
         }
     }
 
