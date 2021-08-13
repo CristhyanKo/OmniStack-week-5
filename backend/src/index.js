@@ -8,7 +8,7 @@ const app = express()
 const server = require('http').Server(app)
 const io = require('socket.io')(server)
 
-mongoose.connect('mongodb://localhost:27017/goweek-backend', {
+mongoose.connect('mongodb+srv://gotw:gotwpassgithub@goweek-backend.8mx3q.mongodb.net/goweek-backend?retryWrites=true&w=majority', {
     useNewUrlParser: true
 })
 
